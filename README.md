@@ -6,3 +6,5 @@ More Text
 Basic Edit
 # Merge This
 Into the branch
+# Conflict Header
+Static
